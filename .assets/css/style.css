@@ -1,0 +1,136 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0%;
+    height: 125vh;
+    background-image: url("https://img.freepik.com/free-vector/background-realistic-abstract-technology-particle_23-2148431735.jpg?w=2000&t=st=1693520774~exp=1693521374~hmac=9ad0d8991074dd37c7794bc10303a81703e80bff4e6ae8a135f6060cdde448ad");
+    background-size: cover;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    height: 80px;
+}
+
+header {
+    display: flex;
+    align-items: center;
+    background-color: rgb(0, 0, 84);
+    box-shadow: 0 0 25px 0 red;
+}
+
+header * {
+    display: inline;
+}
+
+header img {
+    /*pfp*/
+    height: 150px;
+    margin-left: 20px;
+    margin-right: 20px;
+    border-radius: 100px;
+}
+
+header h1 {
+    font-size: 45px;
+    text-align: center;
+    color: orange;
+}
+
+header nav {
+    font-size: 30px;
+    margin: 20px;
+    text-align: center;
+}
+
+header nav li a {
+    color: orange;
+    text-decoration: none;
+    margin: 20px;
+}
+
+#pic1 {
+    /*big boy 1st pic*/
+    width: 500px;
+}
+
+li a:hover {
+    color: red;
+}
+
+section aside {
+    /*moves headers to left side*/
+    display: flex;
+    margin: 10px;
+}
+
+section aside h2 {
+    /*containers and text for aside section*/
+    text-align: center;
+    background-color: rgb(0, 0, 84);
+    color: orange;
+    box-shadow: 0 0 10px 0 red;
+    padding: 10px;
+}
+
+section aside p {
+    /*about me description*/
+    margin-left: 20px;
+    background-color: orange;
+    border: 1px solid black;
+    box-shadow: 0 0 10px 0 red;
+}
+
+section aside section img {
+    /*pictures in the work section*/
+    margin-left: 20px;
+    width: fill;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    box-shadow: 0 0 25px 0 red;
+}
+
+section aside img:hover {
+    box-shadow: 0 0 25px 0 green;
+}
+
+section aside div {
+    /*container for contact me section*/
+    margin: 20px;
+}
+
+div a {
+    /*mod the contact me info*/
+    text-decoration: none;
+    margin: 20px;
+    font-size: larger;
+    text-shadow: red 1px 0 10px;
+    color: orange;
+}
+
+div a:hover {
+    color: red;
+}
+
+.card p {
+    /*mod to put text on pic*/
+    font-size: 24px;
+    color: orange;
+    text-align: right;
+    margin-top: -40px;
+    padding-right: 10px;
+}
+
+.card a {
+    text-decoration: none;
+}
+
+@media only screen and (max-width: 600px) {
+    .body {
+        width: auto;
+        height: auto;
+        flex-direction: row;
+        justify-content: center;
+        text-align: center;
+    }
+}
