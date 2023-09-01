@@ -5,10 +5,15 @@
 Displaying my ability to use CSS and HTML and provide an easy way to communicate and show my work with employers.
 
 ## Usage
+This screenshot shows the deployed website which has clickable links, a working navigation bar, and proper resolution flexiblilty.
 
 \assets\images\screenshot.jpg
 
 ## Credits
+
+https://websitesetup.org/wp-content/uploads/2019/10/WSU-HTML-Cheat-Sheet.pdf
+https://education.github.com/git-cheat-sheet-education.pdf
+https://www.w3schools.com/
 
 Cody Thompson: https://github.com/codyleight
 Bijan Olfati: https://github.com/bolfati
