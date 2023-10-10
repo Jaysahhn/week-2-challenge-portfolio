@@ -1,31 +1,22 @@
-# W2-cssPortfolio-Challenge
+# week-2-challenge-portfolio
 
 ## Description
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
-
-- What was your motivation?
-- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
-- What problem does it solve?
-- What did you learn?
+Displaying my ability to use CSS and HTML and provide an easy way to communicate and show my work with employers.
 
 ## Usage
+This screenshot shows the deployed website which has clickable links, a working navigation bar, and proper resolution flexiblilty.
 
-Provide instructions and examples for use. Include screenshots as needed.
-
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
-
-    ```md
-    ![alt text](assets/images/screenshot.png)
-    ```
+\assets\images\screenshot.jpg
 
 ## Credits
 
-List your collaborators, if any, with links to their GitHub profiles.
+https://websitesetup.org/wp-content/uploads/2019/10/WSU-HTML-Cheat-Sheet.pdf
+https://education.github.com/git-cheat-sheet-education.pdf
+https://www.w3schools.com/
 
-If you used any third-party assets that require attribution, list the creators with links to their primary web presence in this section.
-
-If you followed tutorials, include links to those here as well.
+Cody Thompson: https://github.com/codyleight
+Bijan Olfati: https://github.com/bolfati
 
 ## License
 
