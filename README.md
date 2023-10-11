@@ -8,7 +8,7 @@ Displaying my ability to use CSS and HTML and provide an easy way to communicate
 
 This screenshot displays the portfolio.
 
-[Screenshot](assets/images/screenshot.jpg)
+[Screenshot](./assets/images/screenshot.jpg)
 
 ## Credits
 
